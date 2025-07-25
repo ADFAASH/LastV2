@@ -1,6 +1,6 @@
 
 // LastV2Gemini/lib/api.ts
-const BASE_URL = 'https://8ffbb93e42a9.ngrok-free.app/api/products';
+const BASE_URL = 'https://06fda76148f3.ngrok-free.app/api/products';
 const ORDERS_BASE_URL = 'http://localhost:5050/api/orders'; // New base URL for orders
 
 // Product API functions (existing)
